@@ -1,2 +1,1 @@
-Nina-testing is a company selling office supplies.
-For more information, see https://oracle.com
+Nina-testing is a company selling products listed on https://oracle.com
